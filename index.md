@@ -1,3 +1,3 @@
----
-title: Welcome to my blog!
+Christian @ HeroForge---
+title: Welcome to your First GitHub Page
 ---
